@@ -1,0 +1,16 @@
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ClassExercisePractice.exe
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ClassExercisePractice.deps.json
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ClassExercisePractice.runtimeconfig.json
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ClassExercisePractice.runtimeconfig.dev.json
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ClassExercisePractice.dll
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ref\ClassExercisePractice.dll
+C:\Users\antho\repos\ClassExercisePractice\bin\Debug\net5.0\ClassExercisePractice.pdb
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.AssemblyInfo.cs
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.dll
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ref\ClassExercisePractice.dll
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.pdb
+C:\Users\antho\repos\ClassExercisePractice\obj\Debug\net5.0\ClassExercisePractice.genruntimeconfig.cache
