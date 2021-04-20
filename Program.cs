@@ -7,36 +7,30 @@ namespace ClassExercisePractice
     {
         static void Main(string[] args)
         {
+            var myNewCar1 = new Car();
+
+            myNewCar1.Make = "Honda";
+            myNewCar1.Model = "Accord";
+            myNewCar1.Year = 1994;
+
+
+            var myNewCar2 = new Car();
+
+            myNewCar2.Make = "Toyota";
+            myNewCar2.Model = "Camry";
+            myNewCar2.Year = 2012;
+
             var myCar = new Car();
-            {
-                myCar.Make = "Honda";
-                myCar.Model = "Prelude";
-                myCar.Year = 1998;
-            }
 
-            var myCar2 = new Car();
-            {
-                myCar2.Make = "Toyota";
-                myCar2.Model = "Camry";
-                myCar2.Year = 2002;
+            myCar.Make = "MG";
+            myCar.Model = "Rover";
+            myCar.Year = 2012;
 
-            }
-            var myCar3 = new Car();
-            {
-                myCar3.Make = "Audi";
-                myCar3.Model = "5000";
-                myCar3.Year = 1984;
-            }
-
-            var carList = new List<Car>() { myCar, myCar2, myCar3 };
-
+            var carList = new List<Car>() { myNewCar1, myNewCar2, myCar };
             foreach (var vehicle in carList)
             {
-                Console.WriteLine($"{vehicle.Make}  {vehicle.Model}  {vehicle.Year}");
+                Console.WriteLine($"{vehicle.Make} {vehicle.Model} {vehicle.Year}");
             }
-            
-
-
 
 
         }
