@@ -26,7 +26,7 @@ namespace ClassExercisePractice
             myCar.Model = "Rover";
             myCar.Year = 2012;
 
-            var carList = new List<Car>() { myNewCar1, myNewCar2, myCar };
+            var carList = new List<Car>() {myNewCar1, myNewCar2, myCar};
             foreach (var vehicle in carList)
             {
                 Console.WriteLine($"{vehicle.Make} {vehicle.Model} {vehicle.Year}");
